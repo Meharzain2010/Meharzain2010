@@ -6,7 +6,7 @@
 </h1>
 
 <!--<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Saif Ur Rasool <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">--></h1>
-<h3 align="center">Leetcode 150+ | Graphic Designer | 7x Intl' Hackathon Participant | CALICO Fall '24 & Meta Hacker Cup '24 Participant | #117 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Computer Science Student | @Icodeguru</h3>
+<h3 align="center">Section Leader @Stanford Code in Place | CS50x Puzzle Day Winner'25 @Harvard University | Cybersecurity Enthusiast | Information Security System Administrator | AWS Cloud & Server Security | Bash Scripting | @iCodeGuru</h3>
 <!--
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
