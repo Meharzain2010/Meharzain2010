@@ -15,18 +15,12 @@
 ---
 
 ## About Me:
-- **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/saif-ur-rasool_codeinplace-stanford-activity-7316817481602416640-e8J-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
-- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/a9fa79dc-ae41-4317-9925-c7734bf4255d.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Logic Lords](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
+- **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/zia-ur-rehman63_codeinplace-icodeguru-teaching-activity-7316573769953669120-GFLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
+- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/0e5eb092-a9fa-4dd1-9421-fb3fc12cbb0c.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Nexa](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/Meharzain2010)** Contributing DSA material daily on GitHub and my achievements.
-- **@[LeetCode](https://leetcode.com/u/Saif_Rasool/)** Solved [125+](https://github.com/Meharzain2010/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
-- **@[iCodeGuru](https://icode.guru/)**: Provided training on Data Structures and Algorithms (DSA).
+- **@[LeetCode](https://leetcode.com/u/Zia143/)** Solved [15+](https://github.com/Meharzain2010/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
+- **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
 - @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain2010/Volunteer_Teaching).
-- **@[lablab.ai](https://lablab.ai/u/@Saif_123)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
-- **@[Meta Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/3779894005597220)**: Participated in Meta Hacker Cup 2024 where I've work on complex problems.
-- **@[CALICO Fall '24 Coding Competition](https://www.linkedin.com/in/saif-ur-rasool/details/certifications/1733845587821/single-media-viewer/?profileId=ACoAAD64V0wBA1MCVwPSDdPgOD3kozkA_cUuiig)** Solved successfully 5/9 problems and improved my problem solving skills
-- **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**: Ranked 117 globally in begineer round
-- **@[Advent of Code](https://drive.google.com/file/d/1oeQlukiUQk_mIBWqarZBdJneoHIcCCTm/view?usp=sharing)**: Successfully completed 25 days coding challenges and solved all the problems effectively.
-- **@[SZABSIT Karachi](https://szabist.edu.pk/)**: Delivered a [webinar](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view) on importance of UC Berekely's CALICO Spring'25 coding competition.
 
 ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
