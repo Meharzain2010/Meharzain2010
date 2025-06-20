@@ -88,10 +88,10 @@
 ## Connect with Me:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/saif-ur-rasool/" target="_blank">
+    <a href="https://www.linkedin.com/in/zia-ur-rehman63/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com" target="_blank">
+    <a href="mailto:ziaulrehman6348@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://behance.net/your-profile" target="_blank">
