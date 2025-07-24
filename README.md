@@ -102,6 +102,13 @@
 
 ---
 
+## LeetCode Stats & DSA
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Zia143/?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Zia143&theme=dark&animated=true" alt="LeetCode Badges" />
+</div>
+
 ### GitHub Stats:
 
   <!-- GitHub Stats Section -->
@@ -147,3 +154,33 @@
    <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
+## Achievements & Certifications
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Meharzain2010&theme=chartreuse-dark&row=1&column=7)
+<!--
+</div>
+<div align='center'>
+<img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
+</div>-->
+
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
+
+<!--<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre> -->
