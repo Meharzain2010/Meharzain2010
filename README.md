@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010) &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain2010)<swap/>
+<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain2010)<swap/>
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
   Zia Ur Rehman
 </h1>
@@ -100,23 +100,21 @@
     </a>
 </p>
 
----
-
 ## LeetCode Stats & DSA
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Zia143/?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Zia143?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Zia143&theme=dark&animated=true" alt="LeetCode Badges" />
+  <!--<img src="https://leetcode-badge-showcase.vercel.app/api?username=Zia143&theme=dark&animated=true" alt="LeetCode Badges" />-->
 </div>
 
 ### GitHub Stats:
 
   <!-- GitHub Stats Section -->
-<div >
+<div align='center'>
 
   <!-- GitHub Stats Section -->
   <a href="https://github.com/Meharzain2010">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meharzain2010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+    <!--<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meharzain2010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meharzain2010&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
@@ -124,12 +122,11 @@
   <a href="https://github.com/Meharzain2010/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meharzain2010&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
-
 </div>
 
----
 ## COMPLETED INTERNATIONAL HACKATHONS:
 
+<div align='center'>
 <p float="left">
   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect"_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390">
@@ -154,6 +151,8 @@
    <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
+</div>
+  
 ## Achievements & Certifications
 
 <div align="center">
