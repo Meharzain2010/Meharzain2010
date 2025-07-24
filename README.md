@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010)<swap/><swap>![](https://komarev.com/ghpvc/?username=Meharzain2010)<swap/>
+<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010) &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain2010)<swap/>
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
   Zia Ur Rehman
 </h1>
@@ -40,7 +40,7 @@
 </td><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/Meharzain2010">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
 </div>
@@ -48,7 +48,7 @@
  </td><td valign="top" width="25%">
         
 ### Backend
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/Meharzain2010">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
@@ -59,7 +59,7 @@
 <tr><td valign="top" width="25%">
 
 ### Code Editors  
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/Meharzain2010">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
 </div>
@@ -67,7 +67,7 @@
 </td><td valign="top" width="25%">
     
 ###  Languages
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/Meharzain2010">
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
@@ -75,7 +75,7 @@
 </td><td valign="top" width="25%">
 
 ### Others 
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/Meharzain2010">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
 </div>
