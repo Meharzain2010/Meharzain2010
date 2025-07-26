@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 
-<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain2010)<swap/>
+<swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Meharzain2010) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Meharzain2010)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7320880-3889-4a53-8b0c-da84d370973e" alt="zia-banner-rounded"/>
+  <img src="https://github.com/user-attachments/assets/23a08598-baf5-49d0-a576-051390b4e4de" alt="zia-banner-rounded"/>
 </p>
 
 
