@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
 </p>-->
 
----
+
 
 ## About Me:
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/zia-ur-rehman63_codeinplace-icodeguru-teaching-activity-7316573769953669120-GFLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
@@ -23,9 +23,9 @@
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
 - @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain2010/Volunteer_Teaching).
 
----
+<!-- ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
----
+----->
 
 ## Skill Sets:
 
@@ -158,11 +158,7 @@
 <img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
 </div>-->
 
-<h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</h3>
 
 <!--<pre>
                                   ___           ___           ___       ___       ___     
@@ -177,3 +173,15 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre> -->
+###
+
+<picture>
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman">
+</picture>
+
+###
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
