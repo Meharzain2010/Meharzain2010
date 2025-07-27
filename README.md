@@ -184,11 +184,11 @@
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre> -->
-###
+<!--###
 
 <picture>
   <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman">
-</picture>
+</picture>-->
 
 ###
 <h3 align="center">
