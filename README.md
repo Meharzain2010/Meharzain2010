@@ -29,7 +29,7 @@
 - **@[LeetCode](https://leetcode.com/u/Zia143/)** Solved [30+](https://github.com/Meharzain2010/Daily-Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
 - @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain2010/Volunteer_Teaching).
-
+> Let’s connect and collaborate! Feel free to explore my repositories, leave feedback, or reach out for exciting projects and learning together. 😊
 <!-- ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ----->
