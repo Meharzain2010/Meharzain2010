@@ -35,6 +35,10 @@
 ----->
 <details id=0 open>
 <summary><h2>MORE TO VISIT</h2></summary>
+  
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
 ## Skill Sets:
 
@@ -93,7 +97,10 @@
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
+
 
 ## Connect with Me:
 
@@ -108,12 +115,18 @@
         <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
 </p>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
 ## LeetCode Stats & DSA
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Zia143?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
   &nbsp;&nbsp;&nbsp;
   <!--<img src="https://leetcode-badge-showcase.vercel.app/api?username=Zia143&theme=dark&animated=true" alt="LeetCode Badges" />-->
+</div>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
 ### GitHub Stats:
@@ -137,6 +150,9 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
@@ -159,8 +175,11 @@
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390" alt="ChainSink">
   </a>
 </div>
-  
-## Achievements & Certifications
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+</div>
+
+## Github Trophies:
 
 <div align="center">
 
