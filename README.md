@@ -140,8 +140,8 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meharzain2010&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
   <div align='center'>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meharzain2010&theme=algolia" >
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meharzain2010&theme=algolia">
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meharzain2010&theme=algolia" >
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meharzain2010&theme=algolia">
 </div>
 
   <!-- Activity Graph -->
