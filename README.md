@@ -114,6 +114,9 @@
     <a href="https://behance.net/your-profile" target="_blank">
         <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
+    <a href="https://behance.net/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/Duolingo-053EFF?style=for-the-badge&logo=duolingo&logoColor=white" alt="Behance" />
+    </a>
 </p>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
