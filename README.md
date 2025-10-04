@@ -45,7 +45,7 @@
 <table align="center"><tr><td valign="top" width="25%">
   
 ### Machine Learning
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/Meharzain2010">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
